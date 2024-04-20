@@ -1,7 +1,7 @@
 ## Wine data analyser application
 Provided the data set for the application (present in the data.tsx). This application calulates the mean, median and mode values for each class present.
 
-## insatallation
+## Insatallation
 
  - clone the github repo using git clone https://github.com/shashi675/wine-data-analyser-application.git
  - In the terminal, type npm init.
