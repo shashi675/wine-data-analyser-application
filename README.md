@@ -27,5 +27,6 @@ src <br>
  ┣ reportWebVitals.ts <br>
  ┗ setupTests.ts <br>
  
-## site image
-![image](https://github.com/shashi675/wine-data-analyser-application/assets/92261924/7738d849-ade5-4588-82fa-362dab9d88d8)
+## working site image
+![image](https://github.com/shashi675/wine-data-analyser-application/assets/92261924/83e3feba-7784-4179-a2c0-51529dfc510e)
+
