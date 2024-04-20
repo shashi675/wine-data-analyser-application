@@ -58,11 +58,10 @@ function Flavanoids() {
         });
     }
 
-    // console.log(results[0].mean, results[0].median, results[0].mode);
 
   return (
     <MantineProvider>
-        <h1>Flavanoids Data</h1>
+        <h2>Flavanoids Data</h2>
         <Table withTableBorder withColumnBorders>
         <Table.Thead>
             <Table.Tr>
