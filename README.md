@@ -12,3 +12,6 @@ Provided the data set for the application (present in the data.tsx). This applic
 
  - This application shows the mean, median and mmode for flavanoids and gamma values for all available classes.
  - Data is shown in the form of tables.
+
+## site image
+![image](https://github.com/shashi675/wine-data-analyser-application/assets/92261924/7738d849-ade5-4588-82fa-362dab9d88d8)
